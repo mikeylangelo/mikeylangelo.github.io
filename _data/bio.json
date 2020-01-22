@@ -95,21 +95,8 @@
   ],
   "volunteer": [
     {
-      "organization": "Information Technology Management Association",
-      "website": "https://www.itmahawaii.com/",
-    },
-    {
-      "organization": "Information Technology Management Association",
-      "website": "https://www.itmahawaii.com/",
-      "position": "",
-      "startDate": "2019-01-01",
-      "endDate": "Present",
-      "summary": "",
-      "highlights": [
-        "Interact with various IT professionals and organizations",
-        "Develop professional and social relations"
-        ]
-        }
+      "organization": "ITMA"
+    }
       ],
      "references": [
     {
