@@ -95,15 +95,15 @@
   ],
  "volunteer": [
     {
-      "organization": "Center for Renewable Energy and Island Sustainability",
-      "website": "http://manoa.hawaii.edu/reis",
-      "position": "Software Developer",
-      "startDate": "2016-01-01",
+      "organization": "Information Technology Management Association",
+      "website": "https://www.itmahawaii.com/",
+      "position": "",
+      "startDate": "2018-01-01",
       "endDate": "Present",
-      "summary": "Lead developer for weather sensing project",
+      "summary": "",
       "highlights": [
-        "Design firmware for distributed weather sensor network",
-        "Maintain custom data collection and storage infrastructure"
+        "Develop professional and social relations with IT professionals",
+        "Interact with business community in Hawaii"
       ]
     }
    ]
