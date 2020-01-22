@@ -2,9 +2,9 @@
 layout: essay
 type: essay
 title: Igniting the fire
-date: 2015-08-26
+date: 2020-01-20
 labels:
-  - Software Engineering
+  - Management Information Systems
   - Learning
 ---
 
