@@ -2,11 +2,11 @@
   "basics": {
     "name": "Michelangelo Ferrer",
     "label": "Student",
-    "picture": "https://techfolios.github.io/template/images/molly.png",
+    "picture": "https://mikeylangelo.github.io/images/molly.png",
     "email": "michelangeloferrer1938@gmail.com",
     "phone": "661-205-1894",
     "website": "https://mikeylangelo.github.io",
-    "summary": "I am studying for a B.S. in Computer Science in the Department of Information and Computer Sciences at the University of Hawaii. I expect to graduate in Spring, 2020.",
+    "summary": "I am studying for a B.B.A. in Management Information Studies in the Shidler College of Business at the University of Hawaii at Manoa. I expect to graduate in Spring, 2020.",
     "location": {
       "address": "",
       "postalCode": "96822",
@@ -18,40 +18,33 @@
       {
         "network": "github",
         "username": "mikeylangelo",
-        "url": "http://github.com/changeme"
+        "url": "http://github.com/mikeylangelo"
       },
       {
         "network": "linkedin",
-        "username": "mollymaluhia",
-        "url": "http://linkedin.com/in/changeme"
-      },
-      {
-        "network": "twitter",
-        "username": "mollymal",
-        "url": "http://twitter.com/changeme"
-      },
-      {
-        "network": "instagram",
-        "username": "molly",
-        "url": "http://instagram.com/changeme"
+        "username": "mikeylangelo",
+        "url": "https://www.linkedin.com/in/mikeylangelo"
       }
     ]
   },
   "interests": [
     {
-      "name": "internet of things",
-      "keywords": [
-        "Arduino",
-        "TI MSP430"
-      ]
-    },
-    {
-      "name": "data mining",
+      "name": "Mixed martial arts",
       "keywords": [
       ]
     },
     {
-      "name": "artificial intelligence",
+      "name": "Music",
+      "keywords": [
+      ]
+    },
+    {
+      "name": "Reading",
+      "keywords": [
+      ]
+    },
+    {
+      "name": "Video games",
       "keywords": [
       ]
     }
