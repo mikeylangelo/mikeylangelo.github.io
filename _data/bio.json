@@ -97,7 +97,7 @@
     {
       "organization": "Information Technology Management Association",
       "website": "https://www.itmahawaii.com/",
-      "position": "",
+      "position": "Active Member",
       "startDate": "2018-01-01",
       "endDate": "Present",
       "summary": "",
@@ -106,5 +106,11 @@
         "Interact with business community in Hawaii"
       ]
     }
-   ]
+   ],
+  "references": [
+    {
+      "name": "Available upon request",
+      "reference": ""
+    }
+    ]
 }
