@@ -1,10 +1,11 @@
 ---
 layout: essay
 type: essay
-title: Programming Progress
-date: 2020-04-27
+title: Choosing MIS
+date: 2020-01-20
 labels:
-  - Progress!
-  - Building knowledge...
+  - Management Information Systems
+  - Who am I?
 ---
-My programming skills have definitely improved. I am more comfortable with reading and dealing with HTML and JS, especially if you compare my work with the beginning of the semester. Coding has been very satisfying. I get excited when the code is functioning but I could also be banging the walls when I get stuck, so my enthusiasm for programming can be considered high. When I do get stuck on WODs or assignments it is hard to not look for help or watch the screencast. However, I know that a lot of programming builds on top of each other so I want to understand the logic behind it by eventually completing them myself.  When we complete the labs; I follow along and copy the code but it doesn’t click with me until later. After I review it, the concept is then stuck in my head. I feel like I’m as ready as I can be moving forward; with the only particular struggle I had was syntax. The class was helpful to have some feedback and output with my work. We all had the same stupid questions so I enjoyed how we learn together.
+
+I moved from California to Hawaii to attend University of Hawaii at Manoa. Life on campus exposed me to many valuable opportunities, which have developed my social and my academic skills. I decided that I wanted to puruse a career in business; I was torn between the different majors, but I eventually settled with MIS. This was influenced by my involvement with Information Technology Management Association, where I learned more about the field and sparked interest in coding and cybersecurity. I am not sure where my career is headed but I believe that learning about MIS is a very valuable knowledge to have, especially with the dependence society is placing on technology.
